@@ -45,4 +45,4 @@ Source: [UCI Machine Learning Repository — Bank Marketing Dataset](https://arc
 - `data/` — dataset files (bank-additional-full.csv, bank-additional.csv)
 
 ## Notebook
-[View the full analysis notebook](https://github.com/your-username/your-repo/blob/main/prompt_III.ipynb)
+[View the full analysis notebook](https://github.com/harsimrankaur28/bank-marketing-classifiers/blob/76b42259e5dd3deb4b3dc0de17d1c19c9aef3e4e/prompt_III.ipynb)
